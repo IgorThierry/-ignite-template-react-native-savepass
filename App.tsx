@@ -5,7 +5,7 @@ import {
   useFonts,
   Rubik_300Light,
   Rubik_400Regular,
-  Rubik_500Medium
+  Rubik_500Medium,
 } from '@expo-google-fonts/rubik';
 import { NavigationContainer } from '@react-navigation/native';
 
@@ -15,11 +15,11 @@ export default function App() {
   const [fontsLoaded] = useFonts({
     Rubik_300Light,
     Rubik_400Regular,
-    Rubik_500Medium
+    Rubik_500Medium,
   });
 
   if (!fontsLoaded) {
-    return <AppLoading />
+    return <AppLoading />;
   }
 
   return (
