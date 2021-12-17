@@ -1,7 +1,7 @@
 <p align="center">
-    <img alt="Savepass" src="./.github/Screenshot_1.png" width="300"/>
-    <img alt="Savepass" src="./.github/Screenshot_2.png" width="300"/>
-    <img alt="Savepass" src="./.github/Screenshot_3.png" width="300"/>
+    <img alt="Savepass" src="./.github/Screenshot_1.png" width="200"/>
+    <img alt="Savepass" src="./.github/Screenshot_2.png" width="200"/>
+    <img alt="Savepass" src="./.github/Screenshot_3.png" width="200"/>
 </p>
 
 <h1 align="center">
